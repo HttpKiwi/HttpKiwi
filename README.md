@@ -2,9 +2,9 @@
 
 I poke at proprietary hardware until it talks to Linux.
 
-Day job is software engineering. Off the clock I reverse BLE/HID protocols, ship FOSS replacements for vendor apps, and keep a niri desktop that somehow still boots.
+Work in software engineering. Off the clock I break the propietay shackles of my hardware, make FOSS replacements of vendor apps and keep a niri desktop and qs shell in surprisingly working state.
 
-he/him · Linux enjoyer · FOSS over closed companions
+he/him · Linux enjoyer · FOSS
 
 ---
 
@@ -12,17 +12,17 @@ he/him · Linux enjoyer · FOSS over closed companions
 
 **[OpenQCY](https://github.com/HttpKiwi/OpenQCY)** — Flutter app for QCY earbuds over BLE. ANC, EQ, touch controls, the whole companion-app checklist — without the official app. Built on a reverse-engineered GATT protocol.
 
-**[GameGent](https://github.com/HttpKiwi/GameGent)** — configure a GameSir Tarantula Pro from Linux via USB HID. No Windows VM, no proprietary DLLs. CLI + a little desktop UI because buttons are nicer than hex dumps (sometimes).
+**[GameGent](https://github.com/HttpKiwi/GameGent)** — configure a GameSir Tarantula Pro from Linux via USB HID. No Windows VM, no proprietary DLLs. CLI + a cool UI.
 
 ---
 
 ### also around
 
-- **[niri](https://github.com/HttpKiwi/niri)** — my compositor dots / QML shell. personal, messy, mine.
-- there's some .NET interview take-homes in the repo list if you're hiring and need proof I can do clean architecture. they're not what I build for fun.
+- **[niri](https://github.com/HttpKiwi/niri)** — my niri dots with QML shell. it's a mess, but i think it's cool.
+- there's some .NET interview take-homes in the repo list if you're hiring and need proof I can do clean architecture (They are pre-AI agents ;))
 
 ---
 
 ### currently into
 
-`BLE` · `HID` · `Python` · `Dart`/`Flutter` · tearing apart vendor protocols · making the result something other people can actually install
+Reverse Engineering · tearing apart vendor protocols · making the result something other people can use
